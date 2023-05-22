@@ -1,0 +1,5 @@
+set(LIB_NAME "nlohmann_json")
+set(${LIB_NAME}_DIRNAME "json")
+set(${LIB_NAME}_CONFIG "-DJSON_BuildTests=OFF")
+set(${LIB_NAME}_INTERFACE_LIBRARY_NAME "")
+build_external_lib(${LIB_NAME})

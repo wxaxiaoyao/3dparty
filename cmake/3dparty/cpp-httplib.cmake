@@ -1,0 +1,5 @@
+set(LIB_NAME "httplib")
+set(${LIB_NAME}_DIRNAME "cpp-httplib")
+list(APPEND ${LIB_NAME}_CONFIG "-DBUILD_SHARED_LIBS=OFF")
+set(${LIB_NAME}_INTERFACE_LIBRARY_NAME "")
+build_external_lib(${LIB_NAME})

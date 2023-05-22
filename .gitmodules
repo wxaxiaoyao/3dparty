@@ -1,0 +1,42 @@
+[submodule "gitlab/lua"]
+	path = gitlab/lua
+	url = git@gitee.com:__xiaoyao__/lua.git
+[submodule "gitlab/luasocket"]
+	path = gitlab/luasocket
+	url = git@gitee.com:__xiaoyao__/luasocket.git
+[submodule "gitlab/glm"]
+	path = gitlab/glm
+	url = git@gitee.com:__xiaoyao__/glm.git
+[submodule "gitlab/json"]
+	path = gitlab/json
+	url = git@gitee.com:__xiaoyao__/json.git
+[submodule "gitlab/stb"]
+	path = gitlab/stb
+	url = git@gitee.com:__xiaoyao__/stb.git
+[submodule "gitlab/tinyxml2"]
+	path = gitlab/tinyxml2
+	url = git@gitee.com:__xiaoyao__/tinyxml2.git
+[submodule "gitlab/SDL"]
+	path = gitlab/SDL
+	url = git@gitee.com:__xiaoyao__/SDL.git
+[submodule "gitlab/SDL_net"]
+	path = gitlab/SDL_net
+	url = git@gitee.com:__xiaoyao__/SDL_net.git
+[submodule "gitlab/assimp"]
+	path = gitlab/assimp
+	url = git@gitee.com:__xiaoyao__/assimp.git
+[submodule "gitlab/libsndfile"]
+	path = gitlab/libsndfile
+	url = git@gitee.com:__xiaoyao__/libsndfile.git
+[submodule "gitlab/LuaBridge"]
+	path = gitlab/LuaBridge
+	url = git@gitee.com:__xiaoyao__/LuaBridge.git
+[submodule "gitlab/cpp-httplib"]
+	path = gitlab/cpp-httplib
+	url = git@gitee.com:__xiaoyao__/cpp-httplib.git
+[submodule "gitlab/openal-soft"]
+	path = gitlab/openal-soft
+	url = git@gitee.com:__xiaoyao__/openal-soft.git
+[submodule "gitlab/zlib"]
+	path = gitlab/zlib
+	url = git@gitee.com:__xiaoyao__/zlib.git
